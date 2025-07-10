@@ -7,6 +7,7 @@ The biggest issue during extrusion is lack of control of the material flow, our 
 # Hydrogel
 The PVA hydrogel is formed by cross-linking the PVA solution into a gel network by adding a borax solution.
 
-Materials
-:
+# BOM
+- 12 x M4 screws x 14 mm
+
 By Aryan Naik and Kireeti Kompella 
