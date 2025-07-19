@@ -10,7 +10,7 @@ The PVA hydrogel is formed by cross-linking the PVA solution into a gel network 
 # BOM
 - 12 x M4 screws x 14 mm
 - 10pcs TEC1-12706 12V 60W 6A 40x40 mm Peltier Coolers 
-- 8pcs 3D Printer Fan 40x40x10 mm 12 Volt Fan 0.08A DC Mini Quiet Cooling Fan
+- 8pcs TAHULU 3D Printer Fan 40x40x10 mm 12 Volt Fan 0.08A DC Mini Quiet  Cooling Fan 
 - 
 
 By Aryan Naik and Kireeti Kompella 
