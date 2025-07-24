@@ -8,9 +8,24 @@ The biggest issue during extrusion is lack of control of the material flow, our 
 The PVA hydrogel is formed by cross-linking the PVA solution into a gel network by adding a borax solution.
 
 # BOM
-- 12 x M4 screws x 14 mm
-- 10pcs TEC1-12706 12V 60W 6A 40x40 mm Peltier Coolers 
-- 8pcs TAHULU 3D Printer Fan 40x40x10 mm 12 Volt Fan 0.08A DC Mini Quiet  Cooling Fan 
-- 
+- STEPPERONLINE Nema 17 stepper motor
+- Trapezoidal threaded shaft	
+- Extruder	POM-Thread nut
+- Shaft coupler 6 mm/4 mm
+- 2x Precision linear shaft h6, 150 mm
+- igus GFM-0608–06 Bearing Ø 6 mm
+- 2x Linear bearing LM8UU
+- Hotend heater cartridge E3D 24 V 40 W
+- Hotend thermistor E3D
+- 12x KEYSTONE hexagon nut M3
+- 100× MONROEAEROSPACE washers ID: 3.2 mm M3
+- 100× cylinder head screws M3 16 mm
+- 100× cylinder head screws M3 20 mm
+- 7x cylinder head screw M3 30 mm
+- 10× wing nuts M3
+- Rumba + board
+- 5x SilentStepStick TMC2130 V2
+- 5x SilentStepStick heat sink 9 × 9 × 12 mm
+- Rumba + shield
 
 By Aryan Naik and Kireeti Kompella 
