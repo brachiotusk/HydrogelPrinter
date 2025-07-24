@@ -1,5 +1,5 @@
 # Hydrogel Printer
-3D Hydrogel Printer for the Hackclub Undercity contest. Hydrogel uses a Polyvinyl Alcohol based hydrogel using a Co based aqueous battery as an inner fluid.The method of printing is a screw extrusion based printer. It is built off a Ender 3's core.
+3D Hydrogel Printer for the Hackclub Undercity contest. Hydrogel uses a Polyvinyl Alcohol based hydrogel using a Co based aqueous battery as an inner fluid. The method of printing is a screw extrusion based printer. It is built off a Prusa mk3.
 # PCB
 The biggest issue during extrusion is lack of control of the material flow, our PCB uses flow sensors in order to send data back to the computer so that it can optimize the nozzle's speed in order to control the overall print
 # Design
