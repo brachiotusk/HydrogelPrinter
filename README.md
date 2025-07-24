@@ -28,4 +28,3 @@ The PVA hydrogel is formed by cross-linking the PVA solution into a gel network 
 - 5x SilentStepStick heat sink 9 × 9 × 12 mm
 - Rumba + shield
 
-By Aryan Naik and Kireeti Kompella 
